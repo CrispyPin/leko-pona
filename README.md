@@ -23,3 +23,8 @@
 - If your batteries are small enough you can tuck them under the controllers
 
 ![](images/battery.png)
+
+## LEGO tenting set
+[Instructions](lego_tenting.md)
+
+![](images/tenting.png)
