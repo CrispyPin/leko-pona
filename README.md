@@ -21,6 +21,7 @@
 - Solder pads for the reversible footprint should be soldered on the underside of the board if you want the back of the nice!nano facing up (like in the picture)
 - The battery connector is slightly asymmetrical on the two halves, it should be clear from the outline on the silkscreen which way to put it
 - If your batteries are small enough you can tuck them under the controllers
+- You can use a permanent marker to get a clean look on the edges of the pcbs
 
 ![](images/battery.png)
 
