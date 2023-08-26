@@ -1,4 +1,5 @@
 # leko pona
+![](images/leko_tonsi.png)
 
 ![](images/leko-pona.png)
 
